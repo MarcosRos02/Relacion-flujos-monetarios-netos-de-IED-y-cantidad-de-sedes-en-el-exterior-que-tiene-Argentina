@@ -1,0 +1,104 @@
+sede_id,cantidad_secciones,region_geografica,iso3,nombre_sede
+EECUA,8,AMÉRICA  DEL  SUR,ECU,Embajada  en  Ecuador
+ECHIN,8,ASIA,CHN,Embajada  en  China
+ESURI,6,AMÉRICA  DEL  SUR,SUR,Embajada  en  Surinam
+ETRIA,11,EUROPA  OCCIDENTAL,AUT,Embajada  en  Austria
+CSCRS,4,AMÉRICA  DEL  SUR,BOL,Consulado  General  y  Centro  de  Promoción  en  Santa  Cruz
+EARGE,6,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE,DZA,Embajada  en  Argelia
+ECUBA,5,AMÉRICA  CENTRAL  Y  CARIBE,CUB,Embajada  en  Cuba
+CSIDN,3,OCEANÍA,AUS,Consulado  General  en  Sidney
+EVIET,4,ASIA,VNM,Embajada  en  Vietnam
+ESUEC,4,EUROPA  OCCIDENTAL,SWE,Embajada  en  Suecia
+CNYOR,9,AMÉRICA  DEL  NORTE,USA,Consulado  General  y  Centro  de  Promoción  en  Nueva  York
+ETAIL,6,ASIA,THA,Embajada  en  Tailandia
+EBOLV,12,AMÉRICA  DEL  SUR,BOL,Embajada  en  Bolivia
+EALEM,10,EUROPA  OCCIDENTAL,DEU,Embajada  en  Alemania
+EITAL,10,EUROPA  OCCIDENTAL,ITA,Embajada  en  Italia
+CMIAM,8,AMÉRICA  DEL  NORTE,USA,Consulado  General  y  Centro  de  Promoción  en  Miami
+ECANA,4,AMÉRICA  DEL  NORTE,CAN,Embajada  en  Canadá
+EBARB,7,AMÉRICA  CENTRAL  Y  CARIBE,BRB,Embajada  en  Barbados
+CBARC,6,EUROPA  OCCIDENTAL,ESP,Consulado  General  y  Centro  de  Promoción  en  Barcelona
+EHOND,4,AMÉRICA  CENTRAL  Y  CARIBE,HND,Embajada  en  Honduras
+EASIR,1,ASIA,SYR,Embajada  en  Siria
+CPABL,1,AMÉRICA  DEL  SUR,BRA,Consulado  General  y  Centro  de  Promoción  en  San  Pablo
+ENICA,1,AMÉRICA  CENTRAL  Y  CARIBE,NIC,Embajada  en  Nicaragua
+EKENY,6,ÁFRICA  SUBSAHARIANA,KEN,Embajada  en  Kenia
+CGUAY,2,AMÉRICA  DEL  SUR,ECU,Consulado  en  Guayaquil
+EPERU,7,AMÉRICA  DEL  SUR,PER,Embajada  en  Perú
+EFRAN,9,EUROPA  OCCIDENTAL,FRA,Embajada  en  Francia
+EMOZA,8,ÁFRICA  SUBSAHARIANA,MOZ,Embajada  en  Mozambique
+EANGO,6,ÁFRICA  SUBSAHARIANA,AGO,Embajada  en  Angola
+EGREC,4,EUROPA  OCCIDENTAL,GRC,Embajada  en  Grecia
+CMILA,3,EUROPA  OCCIDENTAL,ITA,Consulado  General  y  Centro  de  Promoción  en  Milán
+CGMUM,3,ASIA,IND,Consulado  General  y  Centro  de  Promoción  en  Mumbai
+ENORU,3,EUROPA  OCCIDENTAL,NOR,Embajada  en  Noruega
+ERUMA,2,EUROPA  CENTRAL  Y  ORIENTAL,ROU,Embajada  en  Rumania
+CCHIC,2,AMÉRICA  DEL  NORTE,USA,Consulado  General  en  Chicago
+EPAKI,2,ASIA,PAK,Embajada  en  Pakistán
+EUCRA,4,EUROPA  CENTRAL  Y  ORIENTAL,UKR,Embajada  en  Ucrania
+EJAPO,6,ASIA,JPN,Embajada  en  Japón
+EGUAT,3,AMÉRICA  CENTRAL  Y  CARIBE,GTM,Embajada  en  Guatemala
+ESAFR,4,ÁFRICA  SUBSAHARIANA,ZAF,Embajada  en  Sudáfrica
+EUNGR,5,EUROPA  CENTRAL  Y  ORIENTAL,HUN,Embajada  en  Hungría
+ESERB,4,EUROPA  CENTRAL  Y  ORIENTAL,SRB,Embajada  en  Serbia
+EIRLA,4,EUROPA  OCCIDENTAL,IRL,Embajada  en  Irlanda
+EMSIA,3,ASIA,MYS,Embajada  en  Malasia
+ERICA,2,AMÉRICA  CENTRAL  Y  CARIBE,CRI,Embajada  en  Costa  Rica
+EPNMA,4,AMÉRICA  CENTRAL  Y  CARIBE,PAN,Embajada  en  Panamá
+EISIA,5,ASIA,IDN,Embajada  en  Indonesia
+EBRAS,7,AMÉRICA  DEL  SUR,BRA,Embajada  en  Brasil
+EEEUU,11,AMÉRICA  DEL  NORTE,USA,Embajada  en  Estados  Unidos
+EFRUS,13,EUROPA  CENTRAL  Y  ORIENTAL,RUS,Embajada  en  Rusia
+EISRA,3,ASIA,ISR,Embajada  en  Israel
+EKUWA,5,ASIA,KWT,Embajada  en  Kuwait
+ECOLO,7,AMÉRICA  DEL  SUR,COL,Embajada  en  Colombia
+ECEUR,6,EUROPA  OCCIDENTAL,BEL,Embajada  ante  la  Unión  Europea
+CPCAR,1,AMÉRICA  DEL  NORTE,MEX,Consulado  en  Playa  del  Carmen
+EPBAJ,4,EUROPA  OCCIDENTAL,NLD,Embajada  en  Holanda
+EMARR,5,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE,MAR,Embajada  en  Marruecos
+CGTEL,2,ASIA,ISR,Consulado  General  en  Tel  Aviv
+EVENE,5,AMÉRICA  DEL  SUR,VEN,Embajada  en  Venezuela
+EARME,3,ASIA,ARM,Embajada  en  Armenia
+ELBNO,5,ASIA,LBN,Embajada  en  Líbano
+EPOLO,3,EUROPA  CENTRAL  Y  ORIENTAL,POL,Embajada  en  Polonia
+CVIGO,3,EUROPA  OCCIDENTAL,ESP,Consulado  General  en  Vigo
+CTORO,3,AMÉRICA  DEL  NORTE,CAN,Consulado  General  en  Toronto
+ELBIA,2,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE,LBY,Embajada  en  Libia
+ESALV,5,AMÉRICA  CENTRAL  Y  CARIBE,SLV,Embajada  en  El  Salvador
+ETURQ,4,EUROPA  OCCIDENTAL,TUR,Embajada  en  Türkiye
+EMEXI,9,AMÉRICA  DEL  NORTE,MEX,Embajada  en  México
+ETUNE,7,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE,TUN,Embajada  en  Túnez
+ENIGE,6,ÁFRICA  SUBSAHARIANA,NGA,Embajada  en  Nigeria
+EQATR,5,ASIA,QAT,Embajada  en  Qatar
+ECORE,5,ASIA,KOR,Embajada  en  Corea  Del  Sur
+ERUNI,12,EUROPA  OCCIDENTAL,GRB,Embajada  en  Reino  Unido
+EHAIT,7,AMÉRICA  CENTRAL  Y  CARIBE,HTI,Embajada  en  Haití
+EHILE,14,AMÉRICA  DEL  SUR,CHL,Embajada  en  Chile
+EEGIP,6,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE,EGY,Embajada  en  Egipto
+ETRIN,1,AMÉRICA  CENTRAL  Y  CARIBE,TTO,Embajada  en  Trinidad  y  Tobago
+EDOMI,3,AMÉRICA  CENTRAL  Y  CARIBE,DOM,Embajada  en  República  Dominicana
+EDINA,4,EUROPA  OCCIDENTAL,DNK,Embajada  en  Dinamarca
+EFINL,2,EUROPA  OCCIDENTAL,FIN,Embajada  en  Finlandia
+EETIO,4,ÁFRICA  SUBSAHARIANA,ETH,Embajada  en  Etiopía
+ENZEL,3,OCEANÍA,NZL,Embajada  en  Nueva  Zelandia
+EEARB,3,ASIA,ARE,Embajada  en  Emiratos  Árabes  Unidos
+CSHAN,7,ASIA,CHN,Consulado  General  y  Centro  de  Promoción  en  Shanghai
+ECHES,5,EUROPA  CENTRAL  Y  ORIENTAL,CZE,Embajada  en  República  Checa
+EPORT,5,EUROPA  OCCIDENTAL,PRT,Embajada  en  Portugal
+CHONG,2,ASIA,CHN,Consulado  General  en  Hong  Kong
+ESUIZ,5,EUROPA  OCCIDENTAL,CHE,Embajada  en  Suiza
+EINDI,4,ASIA,IND,Embajada  en  India
+EESPA,7,EUROPA  OCCIDENTAL,ESP,Embajada  en  España
+ESING,4,ASIA,SGP,Embajada  en  Singapur
+EAUST,5,OCEANÍA,AUS,Embajada  en  Australia
+CRECI,5,AMÉRICA  DEL  SUR,BRA,Consulado  en  Recife
+EJAMA,3,AMÉRICA  CENTRAL  Y  CARIBE,JAM,Embajada  en  Jamaica
+EIRAN,1,ASIA,IRN,Embajada  en  Irán
+ESSED,6,EUROPA  OCCIDENTAL,VAT,Representación  ante  la  Santa  Sede
+CURUG,1,AMÉRICA  DEL  SUR,BRA,Consulado  en  Uruguayana
+EAZER,5,ASIA,AZE,Embajada  en  Azerbaiyán
+EURUG,4,AMÉRICA  DEL  SUR,URY,Embajada  en  Uruguay
+EFILI,4,ASIA,PHL,Embajada  en  Filipinas
+EBELG,5,EUROPA  OCCIDENTAL,BEL,Embajada  en  Bélgica
+CRIOJ,4,AMÉRICA  DEL  SUR,BRA,Consulado  General  en  Rio  de  Janeiro
+CFRAN,4,EUROPA  OCCIDENTAL,DEU,Consulado  General  y  Centro  de  Promoción  en  Francfort
